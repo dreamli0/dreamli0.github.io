@@ -34,8 +34,9 @@ I’m currently a second-year CS Ph.D. student at the University of Delaware, ad
 
 [Toward Understanding the Security of Plugins in Continuous Integration Services]()
 
-**Xiaofan Li**, Yacong Gu, Chu Qiao, Zhenkai Zhang, Daiping Liu, Lingyun Ying, Haixin Duan, Xing Gao
+\[CCS 2024\] **Xiaofan Li**, Yacong Gu, Chu Qiao, Zhenkai Zhang, Daiping Liu, Lingyun Ying, Haixin Duan, Xing Gao
 
+</div>
 </div>
 
 <div class='paper-box-image'><div><div class="badge">WWW 2024</div><img src='images/papers/USCDetector.png' alt="sym" width="100%"></div></div>
@@ -43,8 +44,9 @@ I’m currently a second-year CS Ph.D. student at the University of Delaware, ad
 
 [Characterizing Ethereum Upgradable Smart Contracts and Their Security Implications](https://dl.acm.org/doi/pdf/10.1145/3589334.3645640)
 
-**Xiaofan Li**, Jin Yang, Jiaqi Chen, Yuzhe Tang, Xing Gao
+\[WWW 2024\]**Xiaofan Li**, Jin Yang, Jiaqi Chen, Yuzhe Tang, Xing Gao
 
+</div>
 </div>
 
 <div class='paper-box-image'><div><div class="badge">INFOCOM 2023</div><img src='images/papers/SDN.png' alt="sym" width="100%"></div></div>
@@ -52,7 +54,7 @@ I’m currently a second-year CS Ph.D. student at the University of Delaware, ad
 
 [SDN Application Backdoor: Disrupting the Service via Poisoning the Topology](https://ieeexplore.ieee.org/iel7/10228851/10228852/10229058.pdf)
 
-Shuhua Deng, Xian Qing, **Xiaofan Li**, Xing Gao, Xieping Gao
+\[INFOCOM 2023\]Shuhua Deng, Xian Qing, **Xiaofan Li**, Xing Gao, Xieping Gao
 
 <!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
  
