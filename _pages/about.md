@@ -29,7 +29,7 @@ I’m currently a second-year CS Ph.D. student at the University of Delaware, ad
 
 <div class='paper-box'>
 
-<div class='paper-box-image'><div><div class="badge">CCS 2024</div><img src='images/papers/USCDetector.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-image'><div><div class="badge">CCS 2024</div><img src='images/papers/ci.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Toward Understanding the Security of Plugins in Continuous Integration Services]()
