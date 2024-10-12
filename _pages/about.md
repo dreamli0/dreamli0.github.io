@@ -39,14 +39,15 @@ I’m currently a second-year CS Ph.D. student at the University of Delaware, ad
 </div>
 </div>
 
-<div class='paper-box-image'><div><div class="badge">WWW 2024</div><img src='images/papers/USCDetector.png' alt="sym" width="30%"></div></div>
+<div class='paper-box'>
+<div class='paper-box-image'><div><div class="badge">WWW 2024</div><img src='images/papers/USCDetector.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Characterizing Ethereum Upgradable Smart Contracts and Their Security Implications](https://dl.acm.org/doi/pdf/10.1145/3589334.3645640)
 
 \[WWW 2024\]**Xiaofan Li**, Jin Yang, Jiaqi Chen, Yuzhe Tang, Xing Gao
 
-
+</div>
 </div>
 
 <div class='paper-box-image'><div><div class="badge">INFOCOM 2023</div><img src='images/papers/SDN.png' alt="sym" width="30%"></div></div>
