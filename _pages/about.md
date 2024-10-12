@@ -51,7 +51,7 @@ I’m currently a second-year CS Ph.D. student at the University of Delaware, ad
 </div>
 
 <div class='paper-box'>
-<div class='paper-box-image'><div><div class="badge">INFOCOM 2023</div><img src='images/papers/SDN.png' alt="sym" width="30%"></div></div>
+<div class='paper-box-image'><div><div class="badge">INFOCOM 2023</div><img src='images/papers/SDN.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [SDN Application Backdoor: Disrupting the Service via Poisoning the Topology](https://ieeexplore.ieee.org/iel7/10228851/10228852/10229058.pdf)
