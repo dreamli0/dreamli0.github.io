@@ -71,7 +71,7 @@ I’m currently a second-year CS Ph.D. student at the University of Delaware, ad
 
 # 📖 Educations
 - *2023.01 - 2027.05 (now)*, University of Delaware, Ph.D. of Computer and Information Sciences. 
-- *2021.09 - 2022.12*, Xiangtan University, Master of Computer Science and Technology. 
+- *2021.09 - 2022.12*, Xiangtan University, Master Student of Computer Science and Technology. 
 
 <!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
